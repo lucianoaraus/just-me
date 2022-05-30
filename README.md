@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm @luch</h1>
 <h3 align="center">I'm a Software Developer from Argentina</h3>
 
-<br/>
 
 - 👨‍💻 I love: **creating** and **designing applications**
 
@@ -11,7 +10,6 @@
 
 - 📩 Contact: **lucianoaraus97@gmail.com**
 
-<br/>
 
 ---
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
