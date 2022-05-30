@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm @luch</h1>
 <h3 align="center">I'm a Software Developer from Argentina</h3>
 
+<br/>
+
 - 👨‍💻 I love: **creating** and **designing applications**
 
 - 🥅 2022 Goals: Learning **best practices** and **improving my development skills**
@@ -9,10 +11,11 @@
 
 - 📩 Contact: **lucianoaraus97@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=lucianoaraus&color=green&style=plastic)
----
+<br/>
 
+---
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+<br/>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
