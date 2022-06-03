@@ -1,4 +1,8 @@
-<h1 align="center">Hi! I'm @luch</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70541571/171762762-3400d9d2-c2af-45e0-9067-5b751d527956.gif" title="hello-there" alt="hello-there"/>
+</div>
+
+<h1 align="center">I'm @luch :)</h1>
 <h3 align="center">I'm a Software Developer from Argentina</h3>
 
 
@@ -12,9 +16,9 @@
 
 
 ---
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+<h3 align="center">:hammer_and_wrench: Languages and Tools:</h3>
 <br/>
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
