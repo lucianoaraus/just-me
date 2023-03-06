@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/70541571/171762762-3400d9d2-c2af-45e0-9067-5b751d527956.gif" title="hello-there" alt="hello-there"/>
 </div>
 
-<h1 align="center">I'm @luch :)</h1>
+<h1 align="center">I'm @luch</h1>
 <h3 align="center">I'm a Software Developer from Argentina</h3>
 
 
