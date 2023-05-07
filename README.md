@@ -8,8 +8,6 @@
 
 - 👨‍💻 I love: **creating** and **designing applications**
 
-- 🥅 2022 Goals: Learning **best practices** and **improving my development skills**
-
 - 🚀 I’m currently working on: **react.js**
 
 - 📩 Contact: **lucianoaraus97@gmail.com**
